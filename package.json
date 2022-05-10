@@ -1,0 +1,12 @@
+{
+  "name": "scraper-thing",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  },
+  "license": "MIT"
+}
